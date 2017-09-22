@@ -9,7 +9,7 @@ comments: true
 share: true
 modified: 2016-06-01T14:18:57-04:00
 image:
-  feature: so-simple-sample-image-7.jpg
+  feature: color-banner.png
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
