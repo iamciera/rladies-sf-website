@@ -9,7 +9,7 @@ search: true
 # url: http://localhost:4000
 
 # uncomment for deployment on github
-url: https://iamciera.github.io/rladies-sf-website/
+url: https://iamciera.github.io/rladies-sf-website
 
 # Jekyll configuration
 
