@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Sample Articles
+title: How I Work
 excerpt: "An archive of articles sorted by date."
 search_omit: true
 ---
+
+This is a series in which we meet R users and learn about how they use R in their careers.
 
 <ul class="post-list">
 {% for post in site.categories.articles %} 
