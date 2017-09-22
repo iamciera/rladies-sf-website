@@ -1,26 +1,23 @@
 ---
 layout: page
-title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
+title: About R-Ladies
+excerpt: "Data Obsessed"
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: bay_bridge.jpg
+  credit: 
+  creditlink: 
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+## Mission:
 
-## So Simple Theme is all about:
+**R-Ladies is a worldwide organization whose mission is to promote Gender Diversity in the R community**
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
+The R community suffers from an underrepresentation of Women* in every role and area of participation, whether as leaders, package developers, conference speakers, conference participants, educations, or users (see recent  stats ).
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
+As a diversity initiative, R-Ladies’ mission is to achieve proportionate representation by encouraging, inspiring, and empowering the minorities currently underrepresented in the R community. R-Ladies’ primary focus, therefore, is on supporting the R enthusiasts who identify as an underrepresented minority to achieve their programming potential, by building a collaborative global network of R leaders, mentors, learners, and developers to facilitate individual and collective progress worldwide.
 
-[^1]: Example: *domain.com/category-name/post-title*
+*Please note all references to ‘W/women’ and ‘F/female’ within this document are used fully inclusively w.r.t trans women, genderqueer women, and non-binary people who are significantly female-identified.
+
+
+

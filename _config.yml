@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Site Title
+title: R-Ladies SF
 locale: en_US
-description: Describe your website here.
+description: Data Obsessed
 logo: site-logo.png
 search: true
 url: http://localhost:4000
