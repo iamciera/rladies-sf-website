@@ -5,11 +5,11 @@ excerpt: "Data Obsessed"
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
   feature: city.jpg
-  credit: 
+  credit: Emre Gencer
   creditlink: 
 ---
 
-R-Ladies San Francisco is just one of many chapters of the R-Ladies [Global Organizaion](https://rladies.org/). You can find us gathering all over the bay area to share our love of data and learning. Come [join us](https://www.meetup.com/rladies-san-francisco/)!
+R-Ladies San Francisco is just one of many chapters of the R-Ladies [Global Organization](https://rladies.org/). You can find us gathering all over the bay area to share our love of data and learning. Come [join us](https://www.meetup.com/rladies-san-francisco/)!
 
 ## Global Mission:
 
