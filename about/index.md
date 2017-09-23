@@ -4,7 +4,7 @@ title: About R-Ladies
 excerpt: "Data Obsessed"
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
-  feature: bay_bridge.jpg
+  feature: city.jpg
   credit: 
   creditlink: 
 ---
@@ -19,7 +19,7 @@ The R community suffers from an underrepresentation of Women* in every role and 
 
 As a diversity initiative, R-Ladies’ mission is to achieve proportionate representation by encouraging, inspiring, and empowering the minorities currently underrepresented in the R community. R-Ladies’ primary focus, therefore, is on supporting the R enthusiasts who identify as an underrepresented minority to achieve their programming potential, by building a collaborative global network of R leaders, mentors, learners, and developers to facilitate individual and collective progress worldwide.
 
-* *Please note all references to ‘W/women’ and ‘F/female’ within this document are used fully inclusively w.r.t trans women, genderqueer women, and non-binary people who are significantly female-identified.*
+* *Please note all references to ‘W/women’ and ‘F/female’ within this document are used fully inclusively w.r.t trans women, genderqueer women, and non-binary people who are significantly female-identified.*o 
 
 
 
